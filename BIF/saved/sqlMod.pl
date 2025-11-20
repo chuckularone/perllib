@@ -1,3 +1,10 @@
+# Copyright 2007 Chuck McKenna/chuckularone
+#
+# sqlite table dump utility
+#
+#
+#
+
 #!/usr/bin/perl
 $pathToFtp = "/hciScripts/bif/sql/";
 #require $pathToSql."sqlDo.pl";
