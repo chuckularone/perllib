@@ -1,3 +1,9 @@
+# Copyright 2007 Chuck McKenna/chuckularone 
+#
+# Some basic file handling functions for Perl
+#
+#
+
 package bifFile;
 use strict;
 use Exporter qw(import);

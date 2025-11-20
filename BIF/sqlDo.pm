@@ -1,3 +1,9 @@
+# Copyright 2007 Chuck McKenna/chuckularone
+#
+# Custom SQL calls for sqlite
+#
+#
+
 package sqlDo;
 use strict;
 use Exporter qw(import);

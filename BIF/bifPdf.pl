@@ -6,14 +6,24 @@
 # Released under the GNU GPL. 
 # Copyright 2000 Michael Arndt
 #
-# 07/31/2009
-# Changed regex for parens replacement from s/\)/\\)/g; -- $_=~s/\)/\)/g;  -CJM	
-# 10/16/2009
+#-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+#
+# 07/31/2009 - Modified, Chuck McKenna/chuckularone
+#
+# Changed regex for parens replacement from s/\)/\\)/g; -- $_=~s/\)/\)/g;
+#
+#-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+#
+# 10/16/2009 - Modified, Chuck McKenna/chuckularone
+#
 # Added exporting of font size variable
 # Added exporting of document title
 # Added exporting of document author
-# Updated error block -CJM
+# Updated error block
 #
+#-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+#
+
 $pathToPdf = "/home/chuck/code/perllib/BIF/";
 require $pathToPdf."options.pl";
 use PDF::Create;
