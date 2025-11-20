@@ -1,3 +1,7 @@
+# Copyright 2007 Chuck McKenna/chuckularone
+#
+# Testing
+
 package cjmtest;
 
 use strict;

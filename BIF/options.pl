@@ -1,3 +1,9 @@
+# Copyright 2007 Chuck McKenna/chuckularone
+#
+# Options for bifPdf.pl
+#
+#
+
 ($options) = 
 {
 'sfile' =>
